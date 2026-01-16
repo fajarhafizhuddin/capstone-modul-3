@@ -81,8 +81,8 @@ Hyperparameter tuning dilakukan menggunakan GridSearchCV dengan parameter utama:
 
 Parameter terbaik yang diperoleh:
 - learning_rate = 0.05  
-- max_depth = 9  
-- n_estimators = 250  
+- max_depth = 8
+- n_estimators = 125 
 
 ---
 
